@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic);
+
+.h3header{
+  display: inline-block;
+  padding: var(--btn-padding);
+  background: var(--primary);
+  border-radius: 8px;
+  color: white;
+  font-size: medium;
+}
+
+.datetime{
+  font-size: medium;
+}
+
+.resumensfont{
+  font-size: large;
+}

@@ -3,6 +3,7 @@
   --negro: #262626;
   --blanco: #FFF;
   --fuente-principal: 'Outfit', sans-serif;
+  --btn-padding: 0.5rem 2.8rem;
 }
 html {
   font-size: 62.5%;
