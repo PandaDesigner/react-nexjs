@@ -1,3 +1,4 @@
+import Link from "next/link"
 import { formatDate } from "../helpers"
 import style from '../styles/Entradas.module.css'
 
@@ -13,6 +14,7 @@ const Entradas = ({entrada}) => {
              <hr/>
              <p className={style.datetime}>{formatDate(published_at)}</p>
              <p className={style.resumensfont}>{resumen}</p>
+             <Link></Link>
         </div>
         </div>
         </div>
